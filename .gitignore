@@ -1,2 +1,5 @@
 dataset/*
 .vscode/*
+AnyoneAI - Sprint Project 02.ipynb
+tests/__pycache__/*
+src/__pycache__/*
